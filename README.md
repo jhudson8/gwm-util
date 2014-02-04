@@ -1,4 +1,1 @@
-gwm-util
-========
-
-utility modules used by gulp-web-modules and related plugins
+Utility package used by gulp-web-modules and other plugins
